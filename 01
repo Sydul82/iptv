@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
