@@ -994,5 +994,34 @@ http://10.20.30.30:8989/StarSportSL_1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live-7
 http://10.20.30.30:8989/WILLOWHD/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="Movie", The Super Mario Galaxy
-http://ftp.ctgfun.com/English/The%20Super%20Mario%20Galaxy%20Movie%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/The%20Super%20Mario%20Galaxy%20Movie%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+
+
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="Movie", Nibba Nibbi
+http://basbypass.mirpur.cloud/Data/MOVIES/BANGLA/2026//Nibba%20Nibbi%20%282026%29/Nibba%20Nibbi%202026%20Bengali%20%28ORG%29%201080p%20WEB-DL%20x264%20ESubs%20%281%29.mkv
+
+
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="Movie", “বহুরূপী”
+http://basbypass.mirpur.cloud/Data/MOVIES/BANGLA/2026//Bohurup%20%282026%29/Bohurup.2026.1080p.Bangla.AAC.WEB-DL.h264.mkv
+
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="Movie", “পদাতীক”
+http://basbypass.mirpur.cloud/Data/MOVIES/BANGLA/2024//Padatik%20%282024%29/Padatik%202024%20Bengali%20%28ORG%29%201080p%20WEB-DL%20x264.mkv
+
+
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="Movie", “ভারজিনপুর”
+http://basbypass.mirpur.cloud/Data/MOVIES/BANGLA/2026//Virginpur%20%282026%29/Virginpur%20%282026%29.mp4
+
+
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="Movie", “তারকাঁটা”
+http://basbypass.mirpur.cloud/Data/MOVIES/BANGLA/2026//Taarkata%20%282026%29/Taarkata%20%282026%29.mp4
+
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="Movie",“ফুটানীগঞ্জের মহেশ”
+http://basbypass.mirpur.cloud/Data/MOVIES/BANGLA/2026//Phutaniganjer%20Mahesh%20%282026%29/Phutaniganjer.Mahesh.2026.1080p.WEB-DL.AAC2.0.H.264.mkv
+
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="Movie",
+
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="Movie",
+
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="Movie",
+
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="Movie",
+
